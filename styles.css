@@ -1,0 +1,40 @@
+thead {
+    color:rgb(1, 1, 12);
+    background-color: chartreuse;
+    vertical-align: middle;
+   
+    text-align: center;
+    
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+    padding:3px;
+
+}
+h1 {
+    color:darkred;
+    text-align: center;
+    font-size:60px;
+
+}
+tbody {
+    text-align: center;
+    border:5px, solid, black;
+}
+
+table {
+    width: 650px;
+    border:5px, solid, rgb(240, 15, 191);
+    margin:0, 322px;
+}
+tr {
+    text-align:match-parent;
+    border:5px, solid, rgb(189, 12, 12);
+    background-color: rgb(146, 146, 158);
+    color:rgb(3, 3, 3);
+}
+td {
+    text-align:center;
+    border:5px, solid, black;
+}
